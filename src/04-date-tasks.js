@@ -1,5 +1,3 @@
-
-
 function parseDataFromRfc2822(value) {
   return new Date(value);
 }
